@@ -1,2 +1,2 @@
 # Codewars
-This is solutions of exercises on https://www.codewars.com
+C++ solutions for https://www.codewars.com
